@@ -20,12 +20,12 @@ const bookAuthor = "Naomi Alderman";
 
 function App() {
   return (
-    <div>
+    <React.Fragment>
       <Text text={booksIveRead}/>
       <img style={image} src={thepower} alt="The Power" />;
       <Text text={bookTitle}/>
       <Text text={bookAuthor}/>
-    </div>
+    </React.Fragment>
   );
 }
 
