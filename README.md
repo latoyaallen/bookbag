@@ -1,5 +1,8 @@
 # Bookbag
-Books I've read in 2019
 
-## For the Blog
-* Sat, October 12th: How do we pass styles as props ?
+## Blog Post
+* [Testing A Reusable React Component with
+  Enzyme](https://latoyaallen.blog/2019/10/08/how-to-pass-styles-as-props-to-reusable-react-components/)
+
+## Run the tests
+`npm test`
